@@ -1,8 +1,7 @@
 # Definition
-* Blockchain =
+* Blockchain = A blockchain is a chain of blocks which contain information. Each block records all of the recent transactionn and once transactions completed, goes into the blockchain as a permanent database. Each time a block gets completed, a new block is generated
 
 # To Read
-* A blockchain is a chain of blocks which contain information. Each block records all of the recent transactionn and once transactions completed,  goes into the blockchain as a permanent database. Each time a block gets completed, a new block is generated
 * Digital artwork, Music, Video are converted in the form of NFT
 * NFT + Ownership is being saved in Blockchain
 * NFT examples are 1) Digital artwork, Music, Video
