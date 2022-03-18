@@ -4,7 +4,7 @@
 # To Read
 * Digital artwork, Music, Video are converted in the form of NFT
 * NFT + Ownership is being saved in Blockchain
-* NFT examples are 1) Digital artwork, Music, Video
+* NFT examples are 1) Digital artwork 2) Music 3) Video
 * [Tokenization](https://blockchain.oodles.io/blog/blockchain-based-tokenization-essentials/) is a process that replaces sensitive information with a unique set of characters
 # Programming Languages for Blockchain
 1. Solidity
