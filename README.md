@@ -19,23 +19,20 @@
 * Step-3: Learn JavaScript
 * Step-4: Learn React
 * Step-5: Learn Blockchain Basics
-* Include
-- What is Block Chain
-- what is Ethereum
-- Decentralisation
-- Smart contract
-- Cryptocurrency
-- NFTs , DAOs
-- Cryptography
-- Keys
-- Hashing
+1. What is Block Chain
+2. what is Ethereum
+3. Decentralisation
+4. Smart contract
+5. Cryptocurrency
+6. NFTs , DAOs
+7. Cryptography
+8. Keys
+9. Hashing
 * Step-6: Learn Solidity ( programming language to create smart contracts)
 * Step-7: Learn Hardat / truffle. - (Ethereum Development to environment to compile and run and test and debug contracts)
 * Step-8: Learn Web3.js / Ether.js ( to interact with Ethereum block chain and ecosystem ).
 * Step-9: Learn IPFS / filecoin ( for storing and sharing data in distributed file system)
 * Step-10: Start Building DApps (Decentralised apps means app that runs on P2P block chain network)
-
-
 
 # Terminology
 * Cryptocurrency = Cryptocurrency is a digital payment system that doesn't rely on banks to verify transactions
